@@ -58,7 +58,7 @@ void main()
 		poradie[random] = i;
 	}
 
-	//Vypis na obrazovku
+	//Vypis na obrazovke
 	for (int i = 0; i < 5; i++)
 	{
 		for (int j = 0; j < 2; j++)
